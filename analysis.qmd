@@ -1,0 +1,301 @@
+---
+title: "✨🧸 The Rise and Reign of 'Madison' (1984–2025) 🍼✨"
+format:
+  html:
+    theme: cosmo
+execute:
+  echo: false
+  message: false
+  warning: false
+---
+
+```{=html}
+<style>
+  body {
+    background-color: #fff5f9;
+    background-image:
+      radial-gradient(#f3d9fa 1.5px, transparent 1.5px),
+      radial-gradient(#fcc2d7 1.5px, #fff5f9 1.5px);
+    background-size: 40px 40px;
+    background-position: 0 0, 20px 20px;
+    color: #5f2568;
+  }
+
+  main.content {
+    background: #fffbfd;
+    border: 4px dashed #e599f7;
+    border-radius: 24px;
+    padding: 28px 32px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 8px 28px rgba(214, 51, 132, 0.14), 0 0 0 8px #ffd6e7;
+    position: relative;
+  }
+
+  h1.title {
+    color: #a61e4d;
+    text-align: center;
+    font-weight: 800;
+    text-shadow: 1px 1px 0px #f3d9fa;
+  }
+
+  .nursery-garland {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 14px;
+    margin: 12px 0 20px 0;
+    background: linear-gradient(90deg, #fff0f6 0%, #f8f0fc 50%, #fff0f6 100%);
+    border: 2px solid #eebefa;
+    border-radius: 999px;
+    font-size: 1.5rem;
+    box-shadow: inset 0 1px 6px rgba(151, 117, 250, 0.15);
+  }
+
+  .nursery-garland svg {
+    width: 32px;
+    height: 32px;
+    vertical-align: middle;
+    filter: drop-shadow(0 2px 3px rgba(166, 30, 77, 0.15));
+  }
+</style>
+
+<!-- Top Nursery Garland with Stars, Teddy Bears, Binkies (Pacifiers), and Rattles -->
+<div class="nursery-garland" aria-hidden="true">
+  <span>✨</span>
+  <!-- Pink Star SVG -->
+  <svg viewBox="0 0 64 64" title="Pink Star">
+    <polygon points="32,4 40,22 60,24 45,38 49,58 32,48 15,58 19,38 4,24 24,22" fill="#ff85c0" stroke="#a61e4d" stroke-width="2.5"/>
+  </svg>
+  <!-- Cute Teddy Bear SVG -->
+  <svg viewBox="0 0 64 64" title="Teddy Bear">
+    <circle cx="16" cy="16" r="9" fill="#d0bfff" stroke="#7048e8" stroke-width="2.5"/>
+    <circle cx="16" cy="16" r="5" fill="#fcc2d7"/>
+    <circle cx="48" cy="16" r="9" fill="#d0bfff" stroke="#7048e8" stroke-width="2.5"/>
+    <circle cx="48" cy="16" r="5" fill="#fcc2d7"/>
+    <circle cx="32" cy="34" r="20" fill="#e5dbff" stroke="#7048e8" stroke-width="2.5"/>
+    <ellipse cx="32" cy="39" rx="8" ry="6" fill="#fff0f6"/>
+    <ellipse cx="32" cy="37" rx="3.5" ry="2.5" fill="#d63384"/>
+    <circle cx="24" cy="29" r="2.5" fill="#5f2568"/>
+    <circle cx="40" cy="29" r="2.5" fill="#5f2568"/>
+    <path d="M29 41 Q32 44 35 41" stroke="#5f2568" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </svg>
+  <!-- Pink Baby Binky (Pacifier) SVG -->
+  <svg viewBox="0 0 64 64" title="Baby Binky">
+    <circle cx="32" cy="44" r="11" fill="none" stroke="#d63384" stroke-width="4"/>
+    <ellipse cx="32" cy="17" rx="8" ry="10" fill="#f3d9fa" stroke="#862e9c" stroke-width="2.5"/>
+    <rect x="12" y="24" width="40" height="12" rx="6" fill="#ff85c0" stroke="#a61e4d" stroke-width="2.5"/>
+    <circle cx="32" cy="30" r="5.5" fill="#fcc2d7" stroke="#a61e4d" stroke-width="2"/>
+  </svg>
+  <span>🎀</span>
+  <!-- Purple Baby Rattle SVG -->
+  <svg viewBox="0 0 64 64" title="Baby Rattle">
+    <line x1="20" y1="44" x2="10" y2="54" stroke="#9775fa" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="10" cy="54" r="5" fill="#ff85c0" stroke="#a61e4d" stroke-width="2"/>
+    <circle cx="38" cy="26" r="16" fill="#e599f7" stroke="#862e9c" stroke-width="2.5"/>
+    <path d="M24 19 Q38 33 45 13" stroke="#fff0f6" stroke-width="3" fill="none"/>
+    <circle cx="35" cy="22" r="2.5" fill="#fff0f6"/>
+    <circle cx="43" cy="29" r="2.5" fill="#fff0f6"/>
+  </svg>
+  <!-- Pink Baby Binky SVG -->
+  <svg viewBox="0 0 64 64" title="Baby Binky">
+    <circle cx="32" cy="44" r="11" fill="none" stroke="#9775fa" stroke-width="4"/>
+    <ellipse cx="32" cy="17" rx="8" ry="10" fill="#fcc2d7" stroke="#a61e4d" stroke-width="2.5"/>
+    <rect x="12" y="24" width="40" height="12" rx="6" fill="#d0bfff" stroke="#7048e8" stroke-width="2.5"/>
+    <circle cx="32" cy="30" r="5.5" fill="#f3d9fa" stroke="#7048e8" stroke-width="2"/>
+  </svg>
+  <!-- Cute Teddy Bear SVG -->
+  <svg viewBox="0 0 64 64" title="Teddy Bear">
+    <circle cx="16" cy="16" r="9" fill="#fcc2d7" stroke="#a61e4d" stroke-width="2.5"/>
+    <circle cx="16" cy="16" r="5" fill="#fff0f6"/>
+    <circle cx="48" cy="16" r="9" fill="#fcc2d7" stroke="#a61e4d" stroke-width="2.5"/>
+    <circle cx="48" cy="16" r="5" fill="#fff0f6"/>
+    <circle cx="32" cy="34" r="20" fill="#ffdeeb" stroke="#a61e4d" stroke-width="2.5"/>
+    <ellipse cx="32" cy="39" rx="8" ry="6" fill="#fff"/>
+    <ellipse cx="32" cy="37" rx="3.5" ry="2.5" fill="#9775fa"/>
+    <circle cx="24" cy="29" r="2.5" fill="#5f2568"/>
+    <circle cx="40" cy="29" r="2.5" fill="#5f2568"/>
+    <path d="M29 41 Q32 44 35 41" stroke="#5f2568" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </svg>
+  <!-- Purple Star SVG -->
+  <svg viewBox="0 0 64 64" title="Purple Star">
+    <polygon points="32,4 40,22 60,24 45,38 49,58 32,48 15,58 19,38 4,24 24,22" fill="#b197fc" stroke="#7048e8" stroke-width="2.5"/>
+  </svg>
+  <span>✨</span>
+</div>
+```
+
+Following the March 1984 release of the romantic comedy *Splash*—in which Daryl Hannah's mermaid character chooses her name from a Madison Avenue street sign—"Madison" transformed from a rare male surname (just **42** baby girls in 1984) into a cultural phenomenon. Fueled by the 1990s surname-as-first-name trend, TV characters, and eventually the first generation of celebrity Madisons born after *Splash*, the name peaked at **22,166** girls (#2 in the U.S.) in **2001**.
+
+```{r}
+#| fig-width: 10
+#| fig-height: 6.5
+
+library(tidyverse)
+
+# Read the SSA baby names dataset (1984–2025)
+madison_df <- read_csv("ssa-baby-names.csv", show_col_types = FALSE) |>
+  filter(name == "Madison", year >= 1984) |>
+  mutate(sex = recode(sex, "F" = "Female", "M" = "Male"))
+
+# Build 5-pointed star polygons in data coordinates for the plot background
+make_star <- function(cx, cy, r_x = 0.55, r_y = 650, id = 1, col = "#f783ac") {
+  angles <- seq(pi / 2, pi / 2 + 2 * pi, length.out = 11)[-11]
+  radii <- rep(c(1, 0.42), 5)
+  tibble(
+    id = id,
+    col = col,
+    x = cx + r_x * radii * cos(angles),
+    y = cy + r_y * radii * sin(angles)
+  )
+}
+
+star_centers <- tibble(
+  cx = c(1985.2, 1988.0, 1992.0, 1995.2, 2004.2, 2008.2, 2012.2, 2016.0, 2021.2, 2024.3,
+         1986.2, 1991.2, 2015.0, 2020.2, 2023.2, 2010.2, 2018.0, 2024.8),
+  cy = c(24500, 17500, 25000, 26500, 27000, 18500, 26200, 21000, 25200, 19500,
+         14200, 16000, 5200, 11500, 9500, 5500, 3800, 13500),
+  scale = rep(c(1.1, 0.85, 1.0), 6),
+  col = rep(c("#f783ac", "#b197fc", "#e599f7", "#faa2c1", "#d0bfff", "#ff85c0"), 3)
+)
+
+bg_stars <- pmap_dfr(
+  list(star_centers$cx, star_centers$cy, star_centers$scale, seq_len(nrow(star_centers)), star_centers$col),
+  \(cx, cy, sc, id, col) make_star(cx, cy, r_x = 0.55 * sc, r_y = 680 * sc, id = id, col = col)
+)
+
+bg_hearts <- tibble(
+  x = c(1986.8, 1994.0, 2003.0, 2009.5, 2014.2, 2019.5, 2022.8),
+  y = c(21500, 23200, 8200, 25500, 20500, 22500, 16200),
+  col = c("#f783ac", "#b197fc", "#f783ac", "#e599f7", "#b197fc", "#ff85c0", "#d0bfff")
+)
+
+# Cultural & celebrity events that shaped the popularity of "Madison"
+events <- tibble(
+  year = c(1984, 1990, 1997, 2001, 2005, 2013),
+  count = c(42, 1407, 15189, 22166, 19578, 10605),
+  label_x = c(1988.8, 1988.8, 1993.2, 2000.0, 2011.5, 2018.5),
+  label_y = c(4300, 11200, 19600, 26000, 22800, 15200),
+  event_label = c(
+    "1984: Movie 'Splash' premieres\nMermaid picks name from Madison Ave\n(only 42 girls in 1984 → 301 in 1985)",
+    "1990: 90s Surname Trend\nRises alongside Taylor & Jordan\n(1,407 girls)",
+    "1997: Enters U.S. Top 10\nJumps to #10 most popular girl name\n(15,189 girls)",
+    "2001 All-Time Peak: 22,166 girls (#2 in U.S.)\n'Cardcaptors' ('Madison Taylor') airs on TV",
+    "2005: 'Suite Life of Zack & Cody'\nAshley Tisdale's 'Maddie' fuels nickname craze\n(19,578 girls)",
+    "2013: 1st-Gen Madisons Become Stars\nMadison Beer, Madison Keys & Disney's\n'Liv and Maddie' debut (10,605 girls)"
+  )
+)
+
+madison_df |>
+  ggplot(aes(x = year, y = count, color = sex, fill = sex)) +
+  # Soft pink & purple 5-pointed stars and hearts in the background sky
+  geom_polygon(
+    data = bg_stars,
+    aes(x = x, y = y, group = id),
+    inherit.aes = FALSE,
+    fill = bg_stars$col,
+    color = "#a61e4d",
+    linewidth = 0.2,
+    alpha = 0.45
+  ) +
+  geom_text(
+    data = bg_hearts,
+    aes(x = x, y = y),
+    label = "♥",
+    inherit.aes = FALSE,
+    color = bg_hearts$col,
+    size = 6,
+    alpha = 0.5
+  ) +
+  geom_area(alpha = 0.28, position = "identity") +
+  geom_line(linewidth = 1.3) +
+  # Dashed leader lines connecting points on the curve to event callouts
+  geom_segment(
+    data = events,
+    aes(x = year, y = count, xend = label_x, yend = label_y),
+    inherit.aes = FALSE,
+    color = "#c2255c",
+    linetype = "dashed",
+    linewidth = 0.5
+  ) +
+  # Highlight milestone points on the Female curve
+  geom_point(
+    data = events,
+    aes(x = year, y = count),
+    inherit.aes = FALSE,
+    color = "#a61e4d",
+    fill = "#fff0f6",
+    shape = 21,
+    size = 3.5,
+    stroke = 1.2
+  ) +
+  # Callout boxes for each cultural milestone
+  geom_label(
+    data = events,
+    aes(x = label_x, y = label_y, label = event_label),
+    inherit.aes = FALSE,
+    fill = "#fff0f6",
+    color = "#862e9c",
+    fontface = "bold",
+    size = 3.0,
+    label.padding = unit(0.35, "lines"),
+    label.r = unit(0.25, "lines")
+  ) +
+  scale_color_manual(values = c("Female" = "#d63384", "Male" = "#9775fa")) +
+  scale_fill_manual(values = c("Female" = "#f783ac", "Male" = "#d0bfff")) +
+  scale_x_continuous(breaks = seq(1985, 2025, by = 5), limits = c(1983, 2026)) +
+  scale_y_continuous(
+    labels = scales::label_comma(),
+    limits = c(0, 28000)
+  ) +
+  labs(
+    title = "♥ How Pop Culture Turned 'Madison' Into an Iconic Girls' Name (1984–2025) ♥",
+    subtitle = "Annual U.S. births with key movies, TV shows, and celebrity milestones marked",
+    x = "Year",
+    y = "Number of Babies",
+    color = "Sex",
+    fill = "Sex",
+    caption = "♥ Source: U.S. Social Security Administration (1984–2025) ♥"
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(
+    plot.background = element_rect(fill = "#fff9fb", color = "#e599f7", linewidth = 2),
+    panel.background = element_rect(fill = "#fff9fb", color = NA),
+    panel.grid.minor = element_blank(),
+    panel.grid.major = element_line(color = "#f3d9fa", linetype = "dotted"),
+    plot.title = element_text(color = "#862e9c", face = "bold", size = 13.5, hjust = 0.5),
+    plot.subtitle = element_text(color = "#a61e4d", size = 11, hjust = 0.5),
+    plot.margin = margin(14, 14, 14, 14),
+    legend.position = "top"
+  )
+```
+
+```{=html}
+<!-- Bottom Nursery Garland -->
+<div class="nursery-garland" aria-hidden="true">
+  <span>🍼</span>
+  <svg viewBox="0 0 64 64" title="Purple Star">
+    <polygon points="32,4 40,22 60,24 45,38 49,58 32,48 15,58 19,38 4,24 24,22" fill="#b197fc" stroke="#7048e8" stroke-width="2.5"/>
+  </svg>
+  <svg viewBox="0 0 64 64" title="Baby Binky">
+    <circle cx="32" cy="44" r="11" fill="none" stroke="#d63384" stroke-width="4"/>
+    <ellipse cx="32" cy="17" rx="8" ry="10" fill="#f3d9fa" stroke="#862e9c" stroke-width="2.5"/>
+    <rect x="12" y="24" width="40" height="12" rx="6" fill="#ff85c0" stroke="#a61e4d" stroke-width="2.5"/>
+    <circle cx="32" cy="30" r="5.5" fill="#fcc2d7" stroke="#a61e4d" stroke-width="2"/>
+  </svg>
+  <span>🧸</span>
+  <svg viewBox="0 0 64 64" title="Baby Rattle">
+    <line x1="20" y1="44" x2="10" y2="54" stroke="#d63384" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="10" cy="54" r="5" fill="#d0bfff" stroke="#7048e8" stroke-width="2"/>
+    <circle cx="38" cy="26" r="16" fill="#ff85c0" stroke="#a61e4d" stroke-width="2.5"/>
+    <path d="M24 19 Q38 33 45 13" stroke="#fff0f6" stroke-width="3" fill="none"/>
+    <circle cx="35" cy="22" r="2.5" fill="#fff0f6"/>
+    <circle cx="43" cy="29" r="2.5" fill="#fff0f6"/>
+  </svg>
+  <span>🎀</span>
+  <svg viewBox="0 0 64 64" title="Pink Star">
+    <polygon points="32,4 40,22 60,24 45,38 49,58 32,48 15,58 19,38 4,24 24,22" fill="#ff85c0" stroke="#a61e4d" stroke-width="2.5"/>
+  </svg>
+  <span>🍼</span>
+</div>
+```
